@@ -35,6 +35,7 @@ _Maintain all media publications of GEMASTIK 8, such as Facebook, twitter, websi
 ## **SKILLS**
 
 **Programming Languages** 	Experienced in: Python, SQL, R; Familiar: HTML, CSS
+
 **Framework & Technologies** 	TensorFlow, Git
 
 
