@@ -31,13 +31,13 @@ _Collaboration project between lecturer and college students. Result in paper pu
 April 2015 – October 2015
 _Maintain all media publications of GEMASTIK 8, such as Facebook, twitter, website, etc._
 
-##**SKILLS**
+## **SKILLS**
 
 **Programming Languages** 	Experienced in: Python, SQL, R; Familiar: HTML, CSS
 **Framework & Technologies** 	TensorFlow, Git
 
 
-##**OTHER EXPERIENCES AND ACHIEVEMENTS**
+## **OTHER EXPERIENCES AND ACHIEVEMENTS**
 
 **2020** 
 - Joined Shopee NDSC in beginner category.
