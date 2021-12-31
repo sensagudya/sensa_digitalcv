@@ -42,13 +42,17 @@ _Maintain all media publications of GEMASTIK 8, such as Facebook, twitter, websi
 **2020** 
 - Joined Shopee NDSC in beginner category.
 - Attended NLP course training by Department Computer Science and Electronics.
+
 **2019** 
 - Digital Talent Scholarship (Kemkominfo) Grantee in two months. Have participated in Machine Learning Programs.
+
 **2018** 
 - Digital Talent Scholarship (Kemkominfo & Microsoft) Grantee in two months. Have participated in Big Data Analytics Programs.
+
 **2016** 
 - Finalist team of Gemastik9 in data mining category.
 - Won first place in C-Compiler: Data Mining Competition (University level) organized by Department of Computer Science and Electronics as a team.
+
 **2013 – 2015**
 - Member of Web Design Division at OMAHTI. Contributed in some IT events, such as collaboration event with Gameloft.
 - Member of SKEMA Division at HIMAKOM. Involved in some events about social and technology. Have donated a computer set to an orphanage in social event. Contributed in JOINTS 2014 (IT event) as staff of secretarial division. Contributed in CRAYON 2014 (kids colouring competition with computer) as member of event organizing division.
