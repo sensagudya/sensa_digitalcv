@@ -3,6 +3,7 @@
 _Experienced in data management and processing (especially in NLP area) based in Yogyakarta, Indonesia_
 
 [email](sensagudya@gmail.com) | [linkedin](linkedin.com/in/sensa-gudya-sauma-syahra) | [github](github.com/sensagudya)
+
 Areas of expertise: AI (NLP) research and engineering, machine learning
 
 ## **EDUCATION**
