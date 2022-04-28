@@ -13,7 +13,7 @@ Areas of expertise: AI (NLP) research and engineering, machine learning
 - **Thesis:** The Effect of Reflective Text Summarization on Teacher's Passion in Essay Clustering as An Essay Grading Approach (Case Study: TEACH ON E-learning)
 - _Grouping essay by clustering method and automatic text summarization with analysis in scoring criteria for supporting essay grading process. **Tools:** python._
 
-**B. Sc., Computer Science @ [Universitas Gadjah Mada](https://dcse.fmipa.ugm.ac.id/site/en/welcome/)**
+**B. Cs., Computer Science @ [Universitas Gadjah Mada](https://dcse.fmipa.ugm.ac.id/site/en/welcome/)**
 (2013 – 2018) 
 - **Thesis:** Implementation of Attentive Recurrent Neural Network in Generating Headline with Abstractive Approach
 - _Generating headline of article with automatic text summarization in recurrent neural network and attention model. **Tools:** python, OpenNMT._
