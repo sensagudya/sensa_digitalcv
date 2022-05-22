@@ -1,55 +1,79 @@
 # **Sensa Gudya Sauma Syahra**
 
-_Experienced in data management and processing (especially in NLP area) based in Yogyakarta, Indonesia_
+_Computer Science graduate passionate about data field. Experienced in the field, such as data analysis with SQL, Tableau, & python programming. Have knowledge and experience in NLP & machine learning. Have a desire to find interesting insight into any data and contribute to producing high-quality information_
 
-[email](sensagudya@gmail.com) | [linkedin](linkedin.com/in/sensa-gudya-sauma-syahra) | [github](github.com/sensagudya)
+Areas: AI (NLP) research, machine learning, visualization
 
-Areas of expertise: AI (NLP) research and engineering, machine learning
+[email](sensagudya@gmail.com) | [linkedin](linkedin.com/in/sensa-gudya-sauma-syahra) | [github](github.com/sensagudya) 
+
+
+## **LANGUAGES**
+
+**Natural Languages**
+- Native: Indonesian
+- Intermediate: English 
+
+**Programming Languages**  
+- Experienced in: Python, SQL, Tableau
+- Familiar: R, HTML, CSS, Selenium
+
 
 ## **EDUCATION**
 
 **Master of Computer Science @ [Universitas Gadjah Mada](https://mkom.ugm.ac.id/)**
-(2019 – Present (expected graduates in early 2022))
+(2019 – 2022)
 - **Thesis:** The Effect of Reflective Text Summarization on Teacher's Passion in Essay Clustering as An Essay Grading Approach (Case Study: TEACH ON E-learning)
 - _Grouping essay by clustering method and automatic text summarization with analysis in scoring criteria for supporting essay grading process. **Tools:** python._
 
-**B. Cs., Computer Science @ [Universitas Gadjah Mada](https://dcse.fmipa.ugm.ac.id/site/en/welcome/)**
+**Bachelor of Computer Science @ [Universitas Gadjah Mada](https://dcse.fmipa.ugm.ac.id/site/en/welcome/)**
 (2013 – 2018) 
 - **Thesis:** Implementation of Attentive Recurrent Neural Network in Generating Headline with Abstractive Approach
 - _Generating headline of article with automatic text summarization in recurrent neural network and attention model. **Tools:** python, OpenNMT._
 
-## **WORK EXPERIENCES**
+## **EXPERIENCES**
+_Several experiences that have been carried out related to the field of data and engineering, both formal and informal._ 
+
+**Participant @ [Universitas Gadjah Mada](https://mkom.ugm.ac.id/)**
+(2019)
+- Joined 3-days NLP course training
+- Mini projects: Text Classification, word embedding, deep learning
+
+**Awardee @ [Digital Talent Scholarship](https://www.linkedin.com/company/digital-talent-scholarship/)**
+(2018 & 2019)
+- Have participated in Big Data & Machine Learning Program
+- Selected awardee to participate in the AWS Certified Cloud Practitioner certification program
 
 **Quality Assurance @ [Folarium Innotek Indonesia](https://www.linkedin.com/company/erp-folarium/)**
-(April 2019 – June 2019)
-_Software tester for mobile apps and integration system. Manual testing using test-case documentation._
+(May 2019 – June 2019)
+- Software tester for mobile apps and integration system 
+- Manual testing using test-case documentation
 
-**Administration Section @ Project: Bank Fraud Detection**
+**Administration @ Project: Bank Fraud Detection**
 (2016 – 2017) 
-_Collaboration project between lecturer and college students. Result in paper publication and app design for fraud detection._
+- Collaboration project between lecturer and college students 
+- Result in paper publication and app design for fraud detection.
 
 **Admin of Media Publication @ Gemastik8**
 (April 2015 – October 2015)
-_Maintain all media publications of GEMASTIK 8, such as Facebook, twitter, website, etc._
+- Maintain all media publications of GEMASTIK 8, such as Facebook, twitter, website, etc
 
-## **SKILLS**
-
-**Programming Languages** 	Experienced in: Python, SQL, R; Familiar: HTML, CSS
-
-## **OTHER EXPERIENCES AND ACHIEVEMENTS**
+## **ACHIEVEMENTS**
+_A little competition experience i have done._
 
 **2020**
 - Joined Shopee NDSC in beginner category
-- Attended NLP course training by Department Computer Science and Electronics
-
-**2019** Digital Talent Scholarship (Kemkominfo) Grantee in two months. Have participated in Machine Learning Programs
-
-**2018** Digital Talent Scholarship (Kemkominfo & Microsoft) Grantee in two months. Have participated in Big Data Analytics Programs.
 
 **2016** 
 - Finalist team of Gemastik9 in data mining category
-- Won first place in C-Compiler: Data Mining Competition (University level) organized by Department of Computer Science and Electronics as a team
+- Won first place team in **C-Compiler**: Data Mining Competition (University level) organized by Department of Computer Science and Electronics
 
-**2013 – 2015**
-- Member of Web Design Division at OMAHTI. Contributed in some IT events, such as collaboration event with Gameloft.
-- Member of SKEMA Division at HIMAKOM. Involved in some events about social and technology. Have donated a computer set to an orphanage in social event. Contributed in JOINTS 2014 (IT event) as staff of secretarial division. Contributed in CRAYON 2014 (kids colouring competition with computer) as member of event organizing division.
+## **ORGANIZATIONS**
+**2014 – 2015**
+- Member of Web Design Division at OMAHTI. 
+- Contributed in some IT events, such as collaboration event with Gameloft.
+
+**2013 - 2015**
+- Member of SKEMA Division at HIMAKOM. 
+- Involved in some events about social and technology. 
+- Have donated a computer set to an orphanage in social event. 
+- Contributed in JOINTS 2014 (IT event) as staff of secretarial division; CRAYON 2014 (kids colouring competition with computer) as member of event organizing division.
