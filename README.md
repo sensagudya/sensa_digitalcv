@@ -64,7 +64,7 @@ _A little competition experience i have done._
 - Joined Shopee NDSC in beginner category
 
 **2016** 
-- Finalist team of Gemastik9 in data mining category
+- Finalist team of **Gemastik9** in data mining category
 - Won first place team in **C-Compiler**: Data Mining Competition (University level) organized by Department of Computer Science and Electronics
 
 ## **ORGANIZATIONS**
